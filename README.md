@@ -61,5 +61,8 @@
     ./gradlew jacocoTestReport
     /build/reports/jacoco/test/html/com.globallogic.test.service/UserService.html
 
+# 6. Diagramas
+    Estos se encuentran en el mismo proyecto en la carpeta "diagramas"
+
 
     
